@@ -1,0 +1,293 @@
+# Pocket Articles Collection plugin for WordPress: Localization template.
+# Copyright (C) 2013 Martin Hallonqvist
+# This file is distributed under the same license as the Pocket Articles Collection
+# Martin Hallonqvist <martin@thestrongtype.com>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Pocket Articles Collection Plugin\n"
+"POT-Creation-Date: 2013-09-01 19:14+0100\n"
+"PO-Revision-Date: 2013-09-01 19:14+0100\n"
+"Last-Translator: \n"
+"Language-Team: Martin Hallonqvist <martin@thestrongtype.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: pocketarticles-collection-admin.php:14
+msgid "Nothing added to the database."
+msgstr ""
+
+#: pocketarticles-collection-admin.php:18
+#: pocketarticles-collection-admin.php:55
+msgid "Database table not found"
+msgstr ""
+
+#: pocketarticles-collection-admin.php:42
+#: pocketarticles-collection-admin.php:84
+#: pocketarticles-collection-admin.php:98
+msgid "There was an error in the MySQL query"
+msgstr ""
+
+#: pocketarticles-collection-admin.php:44
+#: pocketarticles-collection.php:429
+msgid "pocketarticle added"
+msgstr ""
+
+#: pocketarticles-collection-admin.php:50
+msgid "Pocket Article not updated."
+msgstr ""
+
+#: pocketarticles-collection-admin.php:86
+msgid "Changes saved"
+msgstr ""
+
+#: pocketarticles-collection-admin.php:100
+msgid "Pocket article deleted"
+msgstr ""
+
+#: pocketarticles-collection-admin.php:102
+msgid "The Pocket article cannot be deleted"
+msgstr ""
+
+#: pocketarticles-collection-admin.php:127
+#: pocketarticles-collection-admin.php:228
+msgid "Add Pocket article"
+msgstr ""
+
+#: pocketarticles-collection-admin.php:144
+#: pocketarticles-collection-admin.php:232
+msgid "Save changes"
+msgstr ""
+
+#: pocketarticles-collection-admin.php:145
+msgid "Back"
+msgstr ""
+
+#: pocketarticles-collection-admin.php:149
+msgid "The Pocket article"
+msgstr ""
+
+#: pocketarticles-collection-admin.php:150
+msgid "Title"
+msgstr ""
+
+#: pocketarticles-collection-admin.php:151
+msgid "Source url"
+msgstr ""
+
+#: pocketarticles-collection-admin.php:152
+#: pocketarticles-collection-admin.php:398
+msgid "Tags"
+msgstr ""
+
+#: pocketarticles-collection-admin.php:153
+#: pocketarticles-collection-admin.php:399
+msgid "Public?"
+msgstr ""
+
+#: pocketarticles-collection-admin.php:154
+msgid "optional"
+msgstr ""
+
+#: pocketarticles-collection-admin.php:155
+msgid "comma separated"
+msgstr ""
+
+#: pocketarticles-collection-admin.php:192
+#: pocketarticles-collection-admin.php:208
+msgid "Nothing done!"
+msgstr ""
+
+#: pocketarticles-collection-admin.php:200
+msgid "Selected Pocket articles made public"
+msgstr ""
+
+#: pocketarticles-collection-admin.php:202
+msgid "Selected Pocket articles made private"
+msgstr ""
+
+#: pocketarticles-collection-admin.php:213
+msgid "pocketarticle(s) deleted"
+msgstr ""
+
+#: pocketarticles-collection-admin.php:239
+msgid "Edit Pocket article"
+msgstr ""
+
+#: pocketarticles-collection-admin.php:266
+#: pocketarticles-collection-admin.php:275
+#: pocketarticles-collection-admin.php:420
+msgid "Add new Pocket article"
+msgstr ""
+
+#: pocketarticles-collection-admin.php:271
+#: pocketarticles-collection-admin.php:414
+msgid "No Pocket articles in the database"
+msgstr ""
+
+#: pocketarticles-collection-admin.php:345
+msgid "Edit"
+msgstr ""
+
+#: pocketarticles-collection-admin.php:345
+msgid "Are you sure you want to delete this Pocket article?"
+msgstr ""
+
+#: pocketarticles-collection-admin.php:345
+#: pocketarticles-collection-admin.php:366
+msgid "Delete"
+msgstr ""
+
+#: pocketarticles-collection-admin.php:352
+msgid "No"
+msgstr ""
+
+#: pocketarticles-collection-admin.php:353
+msgid "Yes"
+msgstr ""
+
+#: pocketarticles-collection-admin.php:365
+msgid "Bulk Actions"
+msgstr ""
+
+#: pocketarticles-collection-admin.php:367
+msgid "Make public"
+msgstr ""
+
+#: pocketarticles-collection-admin.php:368
+msgid "Keep private"
+msgstr ""
+
+#: pocketarticles-collection-admin.php:370
+msgid "Apply"
+msgstr ""
+
+#: pocketarticles-collection-admin.php:372
+msgid "Sort by: "
+msgstr ""
+
+#: pocketarticles-collection-admin.php:374
+#: pocketarticles-collection-admin.php:375
+msgid "Pocket article"
+msgstr ""
+
+#: pocketarticles-collection-admin.php:376
+#: pocketarticles-collection-admin.php:396
+msgid "title"
+msgstr ""
+
+#: pocketarticles-collection-admin.php:377
+#: pocketarticles-collection-admin.php:396
+msgid "sourceurl"
+msgstr ""
+
+#: pocketarticles-collection-admin.php:378
+msgid "Date added"
+msgstr ""
+
+#: pocketarticles-collection-admin.php:379
+msgid "Date updated"
+msgstr ""
+
+#: pocketarticles-collection-admin.php:380
+msgid "Visibility"
+msgstr ""
+
+#: pocketarticles-collection-admin.php:383
+msgid "Go"
+msgstr ""
+
+#: pocketarticles-collection-admin.php:394
+msgid "The pocketarticle"
+msgstr ""
+
+#: pocketarticles-collection-settings.php:46
+msgid "Consumer Key"
+msgstr ""
+
+#: pocketarticles-collection-settings.php:49
+msgid "Access Token"
+msgstr ""
+
+#: pocketarticles-collection-settings.php:52
+msgid "Favorites only"
+msgstr ""
+
+#: pocketarticles-collection-settings.php:63
+#: pocketarticles-collection-settings.php:212
+msgid "Pocket articles"
+msgstr ""
+
+#: pocketarticles-collection-settings.php:156
+#: pocketarticles-collection-settings.php:184
+#: pocketarticles-collection-settings.php:203
+msgid "ERROR: Could not connect to pocket for authorization!"
+msgstr ""
+
+#: pocketarticles-collection-settings.php:163
+msgid "Click button to start authorization"
+msgstr ""
+
+#: pocketarticles-collection-settings.php:207
+msgid "Congratulations! Your application is now authorized with Pocket."
+msgstr ""
+
+#: pocketarticles-collection-settings.php:227
+msgid "Authorize with Pocket"
+msgstr ""
+
+#: pocketarticles-collection-settings.php:232
+msgid "Click here if you want to authorize your app to your pocket account"
+msgstr ""
+
+#: pocketarticles-collection-settings.php:237
+#: pocketarticles-collection-settings.php:254
+msgid "Save Options"
+msgstr ""
+
+#: pocketarticles-collection-settings.php:258
+msgid "Pocket articles background job history"
+msgstr ""
+
+#: pocketarticles-collection-settings.php:281
+msgid "Pocket articles settings"
+msgstr ""
+
+#: pocketarticles-collection.php:164
+msgid "Go to the first page"
+msgstr ""
+
+#: pocketarticles-collection.php:166
+msgid "Go to the previous page"
+msgstr ""
+
+#: pocketarticles-collection.php:170
+msgid "Go to the next page"
+msgstr ""
+
+#: pocketarticles-collection.php:172
+msgid "Go to the last page"
+msgstr ""
+
+#: pocketarticles-collection.php:176
+msgid "Goto page:"
+msgstr ""
+
+#: pocketarticles-collection.php:205
+msgid "Learn more"
+msgstr ""
+
+#: pocketarticles-collection.php:227
+msgid "Next Pocket article"
+msgstr ""
+
+#: pocketarticles-collection.php:403
+#, fuzzy
+msgid "ERROR: Could not connect to Pocket to retrieve articles"
+msgstr ""
+
+#: pocketarticles-collection.php:435
+msgid "Pocket articles updated. Number of new articles: "
+msgstr ""

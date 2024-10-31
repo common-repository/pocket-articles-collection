@@ -1,0 +1,304 @@
+# Pocket Articles Collection plugin for WordPress: Localization template.
+# Copyright (C) 2013 Martin Hallonqvist
+# This file is distributed under the same license as the Pocket Articles Collection
+# Martin Hallonqvist <martin@thestrongtype.com>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Pocket Articles Collection Plugin\n"
+"POT-Creation-Date: 2013-09-04 21:18+0100\n"
+"PO-Revision-Date: 2013-09-04 21:19+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: se_SV\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_e;_\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../pocketarticles-collection/pocketarticles-collection-admin.php:14
+msgid "Nothing added to the database."
+msgstr "Ingenting tillagt till databas."
+
+#: ../pocketarticles-collection/pocketarticles-collection-admin.php:18
+#: ../pocketarticles-collection/pocketarticles-collection-admin.php:55
+msgid "Database table not found"
+msgstr "Hittade inte databastabell"
+
+#: ../pocketarticles-collection/pocketarticles-collection-admin.php:42
+#: ../pocketarticles-collection/pocketarticles-collection-admin.php:84
+#: ../pocketarticles-collection/pocketarticles-collection-admin.php:98
+msgid "There was an error in the MySQL query"
+msgstr "Det blev något fel i SQL-frågan"
+
+#: ../pocketarticles-collection/pocketarticles-collection-admin.php:44
+#: ../pocketarticles-collection/pocketarticles-collection.php:429
+msgid "pocketarticle added"
+msgstr "Pocketartikel tillagd"
+
+#: ../pocketarticles-collection/pocketarticles-collection-admin.php:50
+msgid "Pocket Article not updated."
+msgstr "Pocketartikeln blev inte uppdaterad"
+
+#: ../pocketarticles-collection/pocketarticles-collection-admin.php:86
+msgid "Changes saved"
+msgstr "Ändringar sparade"
+
+#: ../pocketarticles-collection/pocketarticles-collection-admin.php:100
+msgid "Pocket article deleted"
+msgstr "Pocketartikeln borttagen"
+
+#: ../pocketarticles-collection/pocketarticles-collection-admin.php:102
+msgid "The Pocket article cannot be deleted"
+msgstr "Pocketartikeln kan inte tas bort"
+
+#: ../pocketarticles-collection/pocketarticles-collection-admin.php:127
+#: ../pocketarticles-collection/pocketarticles-collection-admin.php:228
+msgid "Add Pocket article"
+msgstr "Lägg till Pocketartikel"
+
+#: ../pocketarticles-collection/pocketarticles-collection-admin.php:144
+#: ../pocketarticles-collection/pocketarticles-collection-admin.php:232
+msgid "Save changes"
+msgstr "Spara ändringar"
+
+#: ../pocketarticles-collection/pocketarticles-collection-admin.php:145
+msgid "Back"
+msgstr "Tillbaka"
+
+#: ../pocketarticles-collection/pocketarticles-collection-admin.php:149
+msgid "The Pocket article"
+msgstr "Pocketartikeln"
+
+#: ../pocketarticles-collection/pocketarticles-collection-admin.php:150
+msgid "Title"
+msgstr "Titel"
+
+#: ../pocketarticles-collection/pocketarticles-collection-admin.php:151
+msgid "Source url"
+msgstr "KällURL"
+
+#: ../pocketarticles-collection/pocketarticles-collection-admin.php:152
+#: ../pocketarticles-collection/pocketarticles-collection-admin.php:398
+msgid "Tags"
+msgstr "Taggar"
+
+#: ../pocketarticles-collection/pocketarticles-collection-admin.php:153
+#: ../pocketarticles-collection/pocketarticles-collection-admin.php:399
+msgid "Public?"
+msgstr "Publik?"
+
+#: ../pocketarticles-collection/pocketarticles-collection-admin.php:154
+msgid "optional"
+msgstr "valfri"
+
+#: ../pocketarticles-collection/pocketarticles-collection-admin.php:155
+msgid "comma separated"
+msgstr "Kommaseparerad"
+
+#: ../pocketarticles-collection/pocketarticles-collection-admin.php:192
+#: ../pocketarticles-collection/pocketarticles-collection-admin.php:208
+msgid "Nothing done!"
+msgstr "Ingeting gjort!"
+
+#: ../pocketarticles-collection/pocketarticles-collection-admin.php:200
+msgid "Selected Pocket articles made public"
+msgstr "De valda pocketartiklarna gjordes publika"
+
+#: ../pocketarticles-collection/pocketarticles-collection-admin.php:202
+msgid "Selected Pocket articles made private"
+msgstr "De valda pocketartiklarna gjordes privata"
+
+#: ../pocketarticles-collection/pocketarticles-collection-admin.php:213
+msgid "pocketarticle(s) deleted"
+msgstr "Pocketartikeln/pocketartiklarna borttagna"
+
+#: ../pocketarticles-collection/pocketarticles-collection-admin.php:239
+msgid "Edit Pocket article"
+msgstr "Ändra pocketartikel"
+
+#: ../pocketarticles-collection/pocketarticles-collection-admin.php:266
+#: ../pocketarticles-collection/pocketarticles-collection-admin.php:275
+#: ../pocketarticles-collection/pocketarticles-collection-admin.php:420
+msgid "Add new Pocket article"
+msgstr "Lägg till ny pocketartikel"
+
+#: ../pocketarticles-collection/pocketarticles-collection-admin.php:271
+#: ../pocketarticles-collection/pocketarticles-collection-admin.php:414
+msgid "No Pocket articles in the database"
+msgstr "Inga pocketartiklar i databasen"
+
+#: ../pocketarticles-collection/pocketarticles-collection-admin.php:345
+msgid "Edit"
+msgstr "Ändra"
+
+#: ../pocketarticles-collection/pocketarticles-collection-admin.php:345
+msgid "Are you sure you want to delete this Pocket article?"
+msgstr "Är du säker på att du vill ta bort den här pocketartikeln"
+
+#: ../pocketarticles-collection/pocketarticles-collection-admin.php:345
+#: ../pocketarticles-collection/pocketarticles-collection-admin.php:366
+msgid "Delete"
+msgstr "Ta bort"
+
+#: ../pocketarticles-collection/pocketarticles-collection-admin.php:352
+msgid "No"
+msgstr "Nej"
+
+#: ../pocketarticles-collection/pocketarticles-collection-admin.php:353
+msgid "Yes"
+msgstr "Ja"
+
+#: ../pocketarticles-collection/pocketarticles-collection-admin.php:365
+msgid "Bulk Actions"
+msgstr "Bulkändringar"
+
+#: ../pocketarticles-collection/pocketarticles-collection-admin.php:367
+msgid "Make public"
+msgstr "Gör publik"
+
+#: ../pocketarticles-collection/pocketarticles-collection-admin.php:368
+msgid "Keep private"
+msgstr "Gör privat"
+
+#: ../pocketarticles-collection/pocketarticles-collection-admin.php:370
+msgid "Apply"
+msgstr "Utför"
+
+#: ../pocketarticles-collection/pocketarticles-collection-admin.php:372
+msgid "Sort by: "
+msgstr "Sortera på:"
+
+#: ../pocketarticles-collection/pocketarticles-collection-admin.php:374
+#: ../pocketarticles-collection/pocketarticles-collection-admin.php:375
+msgid "Pocket article"
+msgstr "Pocketartikel"
+
+#: ../pocketarticles-collection/pocketarticles-collection-admin.php:376
+#: ../pocketarticles-collection/pocketarticles-collection-admin.php:396
+msgid "title"
+msgstr "Titel"
+
+#: ../pocketarticles-collection/pocketarticles-collection-admin.php:377
+#: ../pocketarticles-collection/pocketarticles-collection-admin.php:396
+msgid "sourceurl"
+msgstr "KällURL"
+
+#: ../pocketarticles-collection/pocketarticles-collection-admin.php:378
+msgid "Date added"
+msgstr "Tillagd datum"
+
+#: ../pocketarticles-collection/pocketarticles-collection-admin.php:379
+msgid "Date updated"
+msgstr "Uppdaterad datum"
+
+#: ../pocketarticles-collection/pocketarticles-collection-admin.php:380
+msgid "Visibility"
+msgstr "Synlighet"
+
+#: ../pocketarticles-collection/pocketarticles-collection-admin.php:383
+msgid "Go"
+msgstr "Utför"
+
+#: ../pocketarticles-collection/pocketarticles-collection-admin.php:394
+msgid "The pocketarticle"
+msgstr "Pocketartikeln"
+
+#: ../pocketarticles-collection/pocketarticles-collection-settings.php:46
+msgid "Consumer Key"
+msgstr "Consumer Key"
+
+#: ../pocketarticles-collection/pocketarticles-collection-settings.php:49
+msgid "Access Token"
+msgstr "Access Token"
+
+#: ../pocketarticles-collection/pocketarticles-collection-settings.php:52
+msgid "Favorites only"
+msgstr "Enbart favoriter"
+
+#: ../pocketarticles-collection/pocketarticles-collection-settings.php:63
+#: ../pocketarticles-collection/pocketarticles-collection-settings.php:212
+msgid "Pocket articles"
+msgstr "Pocketartiklarna"
+
+#: ../pocketarticles-collection/pocketarticles-collection-settings.php:156
+#: ../pocketarticles-collection/pocketarticles-collection-settings.php:184
+#: ../pocketarticles-collection/pocketarticles-collection-settings.php:203
+msgid "ERROR: Could not connect to pocket for authorization!"
+msgstr "FEL: Kunde inte ansluta till Pocket för auktorisation"
+
+#: ../pocketarticles-collection/pocketarticles-collection-settings.php:163
+msgid "Click button to start authorization"
+msgstr "Tryck på knappen för att påbörja auktorisation"
+
+#: ../pocketarticles-collection/pocketarticles-collection-settings.php:207
+msgid "Congratulations! Your application is now authorized with Pocket."
+msgstr "Grattis! Din plugin är nu auktoriserad med Pocket."
+
+#: ../pocketarticles-collection/pocketarticles-collection-settings.php:227
+msgid "Authorize with Pocket"
+msgstr "Auktorisera med Pocket"
+
+#: ../pocketarticles-collection/pocketarticles-collection-settings.php:232
+msgid "Click here if you want to authorize your app to your pocket account"
+msgstr "Tryck här om du vill auktorisera din app med ditt Pocketkonto"
+
+#: ../pocketarticles-collection/pocketarticles-collection-settings.php:237
+#: ../pocketarticles-collection/pocketarticles-collection-settings.php:254
+msgid "Save Options"
+msgstr "Spara inställningar"
+
+#: ../pocketarticles-collection/pocketarticles-collection-settings.php:258
+msgid "Pocket articles background job history"
+msgstr "Pocket artiklars historik för bakgrundskörningar"
+
+#: ../pocketarticles-collection/pocketarticles-collection-settings.php:281
+msgid "Pocket articles settings"
+msgstr "Pocketinställningar"
+
+#: ../pocketarticles-collection/pocketarticles-collection.php:164
+msgid "Go to the first page"
+msgstr "Gå till första sidan"
+
+#: ../pocketarticles-collection/pocketarticles-collection.php:166
+msgid "Go to the previous page"
+msgstr "Gå till föregående sida"
+
+#: ../pocketarticles-collection/pocketarticles-collection.php:170
+msgid "Go to the next page"
+msgstr "Gå till nästa sida"
+
+#: ../pocketarticles-collection/pocketarticles-collection.php:172
+msgid "Go to the last page"
+msgstr "Gå till sista sidan"
+
+#: ../pocketarticles-collection/pocketarticles-collection.php:176
+msgid "Goto page:"
+msgstr "Gå till sida:"
+
+#: ../pocketarticles-collection/pocketarticles-collection.php:205
+msgid "Learn more"
+msgstr "Läs mer"
+
+#: ../pocketarticles-collection/pocketarticles-collection.php:227
+msgid "Next Pocket article"
+msgstr "Nästa Pocketartikel"
+
+#: ../pocketarticles-collection/pocketarticles-collection.php:403
+#, fuzzy
+msgid "ERROR: Could not connect to Pocket to retrieve articles"
+msgstr "FEL: Kunde inte ansluta till Pocket för auktorisation"
+
+#: ../pocketarticles-collection/pocketarticles-collection.php:435
+msgid "Pocket articles updated. Number of new articles: "
+msgstr "Pocketartiklar uppdaterade. Antal nya artiklar:"
+
+#~ msgid "Use your own settings"
+#~ msgstr "Använd egna inställningar"
+
+#~ msgid "Add pocketarticle"
+#~ msgstr "Lägg till pocketartikel"

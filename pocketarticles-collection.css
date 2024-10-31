@@ -1,0 +1,38 @@
+/* Random pocketarticle */
+.pocketarticlescollection_randompocketarticle q {
+}
+
+.pocketarticlescollection_randompocketarticle cite {
+	display:block; /* To display title and sourceurl in a new line */
+	text-align:right; 
+}
+
+.pocketarticlescollection_title { /* title */
+	font-style:normal;
+}
+
+.pocketarticlescollection_sourceurl { /* sourceurl */
+	font-style: italic;
+}
+
+.pocketarticlescollection_nextpocketarticle { /* 'Next pocketarticle »' link */
+
+}
+
+.pocketarticlescollection_nextpocketarticle a { /* use this if you want to change, for example, the color of the 'Next pocketarticle »' link */
+
+}
+
+
+/* pocketarticles page */
+blockpocketarticle.pocketarticlescollection {
+	border:0;
+	background:none;
+	padding:0;
+	margin:2em;
+	font-size:1em;
+}
+
+a.disabled {
+	cursor:default;
+}
